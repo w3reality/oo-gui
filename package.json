@@ -1,6 +1,6 @@
 {
     "name": "oo-gui",
-    "version": "0.1.1-dev.1",
+    "version": "0.1.1-dev.2",
     "description": "An object oriented wrapper of lil-gui",
     "main": "dist/oo-gui.min.js",
     "directories": {
@@ -32,7 +32,7 @@
     },
     "homepage": "https://github.com/w3reality/oo-gui",
     "devDependencies": {
-        "es-pack-js": "0.5.10",
+        "es-pack-js": "0.5.11",
         "lil-gui": "^0.16.1"
     }
 }
